@@ -2,6 +2,12 @@
 
 > Original project by **Oishani**. Adapted and extended by **Maruf Fayziev** for learning and experimentation.
 
+## Original repository
+
+This work is adapted from the original GitHub repository:
+
+- https://github.com/Oishani/Machine-Learning-Projects
+
 ## 1. Introduction to Supervised Learning using Iris data
 
 In this project, I use Logistic Regression, K-Nearest Neighbors algorithm, and the Support Vector Machine algorithm to analyze iris data.
