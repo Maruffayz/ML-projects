@@ -1,5 +1,7 @@
 # ~10 mini projects in machine learning
 
+> Original project by **Oishani**. Adapted and extended by **Maruf Fayziev** for learning and experimentation.
+
 ## 1. Introduction to Supervised Learning using Iris data
 
 In this project, I use Logistic Regression, K-Nearest Neighbors algorithm, and the Support Vector Machine algorithm to analyze iris data.
@@ -138,3 +140,16 @@ I do the following:
 - The KMeans Clustering Elbow Method
 - Principle Component Analysis with Scikit-Learn
 - Meshgrid Visualizations for PCA-reduced Data
+
+## Adaptations and additions by Maruf
+
+The original notebooks and project ideas were created by Oishani. In this fork/adaptation, I (Maruf Fayziev) have:
+
+- Collected the projects into this ML-projects repository under my GitHub account.
+- Added a small Python entry script (`main.py`) so the repository can also be used as a standard Python project.
+- Added repository configuration files (such as `.gitattributes`) to improve language detection and organization on GitHub.
+
+Planned future changes:
+
+- Add my own experiment notebooks and Python modules under a separate `maruf_experiments/` folder.
+- Document any significant modifications to the original project logic so attribution remains clear.
